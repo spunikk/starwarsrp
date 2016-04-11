@@ -3,5 +3,5 @@
     "base" "nutscript"
     "title" "starwarsrp"
     "author" "DIR"
-    "menusystem" "2"
+    "menusystem" "1"
 }
