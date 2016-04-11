@@ -1,11 +1,10 @@
-
 -- This hook replaces the bar's look.
 BAR_HEIGHT = 15
 local gradient = nut.util.getMaterial("vgui/gradient-d")
 function nut.bar.draw(x, y, w, h, value, color, barInfo)
 	nut.util.drawBlurAt(x, y, w, h)
 
-	surface.SetDrawColor(32, 32, 32, 15)
+	surface.SetDrawColor(83, 204, 245, 15)
 	surface.DrawRect(x, y, w, h)
 	surface.DrawOutlinedRect(x, y, w, h)
 
