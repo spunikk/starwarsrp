@@ -1,0 +1,7 @@
+"Gamemode"
+{	
+    "base" "nutscript"
+    "title" "starwarsrp"
+    "author" "DIR"
+    "menusystem" "2"
+}
