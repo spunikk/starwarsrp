@@ -3,8 +3,6 @@ FACTION.isdefault = "false"
 FACTION.desc = "None"
 FACTION.color = Color(225, 0, 0)
 
-FACTION.isDefault = false
-
 FACTION.pay = 100
 FACTION.payTime = 600
 FACTION.isGloballyRecognized = true
