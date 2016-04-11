@@ -1,7 +1,7 @@
 FACTION.name = "First Order Recruits"
 FACTION.isdefault = "true"
 FACTION.desc = "None"
-FACTION.color = Color(0, 0, 0)
+FACTION.color = Color(155, 52, 52, 255)
 
 FACTION.pay = 100
 FACTION.payTime = 600
